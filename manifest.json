@@ -1,10 +1,10 @@
 {
   "id": "nothing",
   "name": "Nothing",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minAppVersion": "0.15.0",
-  "description": "Does nothing. Zero settings, zero commands, zero features.",
-  "author": "YOUR_NAME",
-  "authorUrl": "https://github.com/YOUR_USERNAME",
+  "description": "Does nothing. Now with even less.",
+  "author": "sty-ilman",
+  "authorUrl": "https://github.com/sty-ilman",
   "isDesktopOnly": false
 }
